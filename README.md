@@ -55,7 +55,7 @@ This is a **Group Project** (3 members) for the **Data Mining and Visualization*
 
 ---
 
-## 🔧 Process
+## Process
 
 ### 1. Data Cleaning (Dirty → Clean Dataset)
 - Removed duplicate entries
@@ -82,7 +82,7 @@ This is a **Group Project** (3 members) for the **Data Mining and Visualization*
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Group_6_Responsible_Consumption_And_Production/
@@ -91,13 +91,12 @@ Group_6_Responsible_Consumption_And_Production/
 ├── Datasets bersih.csv             # Cleaned dataset (30,256 rows)
 ├── Proses Pre-processing.html      # Preprocessing notebook (Python)
 ├── E-Poster (png).png              # Final infographic poster
-├── Group 6_Infographic description.pdf  # Full written description
-└── Group 6_Video Presentation.mp4      # Video presentation
+
 ```
 
 ---
 
-## 💡 Key Findings
+##  Key Findings
 
 - Waste volume varies significantly across Jakarta's 5 regions
 - Certain sub-districts consistently show higher waste concentration
@@ -127,15 +126,15 @@ This project directly supports **SDG Goal 12: Responsible Consumption and Produc
 
 ---
 
-## 👥 Team
+## Team
 
 **Group 6 — Data Mining and Visualization**
 Binus University · Semester 2 · 2025
 
 | Member | Role |
 |--------|------|
-| Member 1 | Data Mining & Analysis |
-| Member 2 | Data Mining & Analysis |
+| Cheryl Eugene Saari| Data Cleaning|
+| Ernestine Danella Ong | Data Cleaning |
 | Dasnaiya Hsu | Data Visualization & Poster Design |
 
 ---
